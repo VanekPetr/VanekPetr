@@ -2,7 +2,7 @@
 
 # Hey, Robots! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Petr and currently I'm working as a Machine Learning Engineer at Go Autonomous in Copenhagen deep diving into NLP, Computer Vision and MLOps. 
+Currently, I'm working as a Machine Learning Engineer @ Go Autonomous in Copenhagen where I deep dive into topics of NLP, Computer Vision and MLOps. 
 
 In a free time, I am helping as a teaching assistant at DTU and KU, co-supervising master and bachelor theses within OR, ML and asset allocation as well as applying this knowledge to create an open-source algorithm-based investment advisor.
 
