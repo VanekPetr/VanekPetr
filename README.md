@@ -11,12 +11,19 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML/DL-PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML/DL-Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML/DL-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML/DL-Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOps-grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOps-GoogleCloud-%234285F4.svg?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOps-github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOps-Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white&color=2bbc8a)
 
 
 ## 🚀 GitHub Stats
