@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/VanekPetr/VanekPetr/main/readme_header.png "Header")](https://linkedin.com/in/vanekpetr42/)
 
-# Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hey, Robots! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Petr and currently I'm working as a Machine Learning Engineer at Go Autonomous in Copenhagen deep diving into NLP, Computer Vision and MLOps. 
 
@@ -28,7 +28,7 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Petr's GitHub Stats" />
 </a>
 
-## 🛸 Check out
+## 🛸 Check this out
 <p align="center">
 <a href="https://github.com/VanekPetr/investment-funnel">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
