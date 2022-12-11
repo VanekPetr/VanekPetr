@@ -29,22 +29,22 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
 ## 🚀 GitHub Stats
 
 <a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_color=02D892" />
 </a>
 <a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Petr's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Petr's GitHub Stats" />
 </a>
 
 ## 🛸 Check this out
-<p align="center">
+
 <a href="https://github.com/VanekPetr/investment-funnel">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
 </a>
-<span>&nbsp;</span>
+
 <a href="https://github.com/VanekPetr/Optimal_Portfolios_of_ETFs">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=Optimal_Portfolios_of_ETFs&border_color=02D892&bg_color=1d1f21&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=Optimal_Portfolios_of_ETFs&border_color=02D892&bg_color=1d1f21&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-</p>
+
 
 
 <!-- Resources -->
