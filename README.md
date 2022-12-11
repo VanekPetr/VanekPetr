@@ -41,8 +41,8 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
 </a>
 
-<a href="https://github.com/VanekPetr/Optimal_Portfolios_of_ETFs">
-<img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=Optimal_Portfolios_of_ETFs&border_color=02D892&bg_color=1d1f21&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/VanekPetr/yolov5-count-eggs-challenge">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=yolov5-count-eggs-challenge&border_color=02D892&bg_color=1d1f21&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
 
