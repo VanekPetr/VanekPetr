@@ -28,21 +28,21 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
 
 ## 🚀 GitHub Stats
 <a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://vanek-petr.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Petr's GitHub Stats" />
+  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Petr's GitHub Stats" />
 </a>
 <a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://vanek-petr.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" />
+  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" />
 </a>
 
 
 ## 🛸 Check this out
 
 <a href="https://github.com/VanekPetr/investment-funnel">
-<img align="center" src="https://vanek-petr.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
+<img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=investment-funnel&border_color=02D892&title_color=C9D1D9&bg_color=1d1f21&text_color=8B949E&icon_color=02D892" />
 </a>
 
 <a href="https://github.com/VanekPetr/yolov5-count-eggs-challenge">
-<img  align="center" src="https://vanek-petr.vercel.app/api/pin/?username=VanekPetr&repo=yolov5-count-eggs-challenge&border_color=02D892&bg_color=1d1f21&title_color=C8D1D9&text_color=8B949E&icon_color=02D892" />
+<img  align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/pin/?username=VanekPetr&repo=yolov5-count-eggs-challenge&border_color=02D892&bg_color=1d1f21&title_color=C8D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
 
