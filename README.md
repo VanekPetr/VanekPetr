@@ -28,12 +28,13 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
 
 ## 🚀 GitHub Stats
 <a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,dockerfile,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892&cachebuster=<%= new Date().getTime() %>" />
+  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,dockerfile,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" />
 </a>
 
 <a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892&cachebuster=<%= new Date().getTime() %>" alt="Petr's GitHub Stats" />
+  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Petr's GitHub Stats" />
 </a>
+
 
 
 ## 🛸 Check this out
